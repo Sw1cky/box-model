@@ -1,0 +1,10 @@
+p{
+    border-style: double;
+    border-width: 3px;
+    border-color: blueviolet;
+     border-top-style: solid;
+     border-top-width: 3px;
+     border-top-color:red;
+    padding: 2%;
+    margin: 20px;
+}
